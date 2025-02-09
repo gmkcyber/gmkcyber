@@ -1,3 +1,4 @@
+<img src="https://gokhanmidilli.com.tr/wp-content/uploads/2024/04/onlineegitim.jpg"></img>
 <h1 align="center">Merhaba 👋, ben Gökhan MİDİLLİ</h1>
 <h3 align="center">Siber Güvenlik alanında sürekli öğrenen geliştirici</h3>
 
