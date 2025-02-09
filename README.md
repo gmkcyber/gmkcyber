@@ -1,4 +1,4 @@
-<img src="https://gokhanmidilli.com.tr/wp-content/uploads/2024/04/onlineegitim.jpg"></img>
+<img src="[https://gokhanmidilli.com.tr/wp-content/uploads/2024/04/onlineegitim.jpg](https://www.itsasap.com/hs-fs/hubfs/cyber%20insurance.gif?width=778&name=cyber%20insurance.gif)"></img>
 <h1 align="center">Merhaba 👋, ben Gökhan MİDİLLİ</h1>
 <h3 align="center">Siber Güvenlik alanında sürekli öğrenen geliştirici</h3>
 
