@@ -1,4 +1,4 @@
-<img src="https://www.itsasap.com/hs-fs/hubfs/cyber%20insurance.gif?width=778&name=cyber%20insurance.gif"></img>
+<img src="https://i.giphy.com/hun4DFmfnDId3lid5b.webp"></img>
 <h1 align="center">Merhaba 👋, ben Gökhan MİDİLLİ</h1>
 <h3 align="center">Siber Güvenlik alanında sürekli öğrenen geliştirici</h3>
 
