@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/hun4DFmfnDId3lid5b.webp"></img>
+<p align="center"><img src="https://i.giphy.com/hun4DFmfnDId3lid5b.webp"></img></p>
 <h1 align="center">Merhaba 👋, ben Gökhan MİDİLLİ</h1>
 <h3 align="center">Siber Güvenlik alanında sürekli öğrenen geliştirici</h3>
 
